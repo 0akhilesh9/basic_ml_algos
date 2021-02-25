@@ -1,1 +1,1 @@
-Implementation of few basic machine learning algorithms.
+Implementation of a few basic machine learning algorithms.
